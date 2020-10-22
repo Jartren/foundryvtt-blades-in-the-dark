@@ -6,7 +6,7 @@
   "minimumCoreVersion": "0.7.2",
   "compatibleCoreVersion": "0.7.5",
   "templateVersion": 1,
-  "author": "megastruktur",
+  "author": "OGmegastruktur",
   "esmodules": [
     "module/blades.js"
   ],
