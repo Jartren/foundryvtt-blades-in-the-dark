@@ -32,7 +32,7 @@
   ],
   "url": "https://github.com/Jartren/foundryvtt-blades-in-the-darker/",
   "manifest": "https://github.com/Jartren/foundryvtt-blades-in-the-darker/raw/master/system.json",
-  "download": "https://github.com/megastruktur/foundryvtt-blades-in-the-dark/archive/2.5.zip",
+  "download": "https://github.com/Jartren/foundryvtt-blades-in-the-darker/archive/master.zip",
   "packs": [
     {
       "name": "class",
